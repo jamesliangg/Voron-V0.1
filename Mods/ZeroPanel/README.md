@@ -1,7 +1,7 @@
 # ZeroPanels
 Original by zruncho3d [original repository](https://github.com/zruncho3d/ZeroPanels).
 
-The original panels needed modification to fit the original V0.1 frame.
+The original panels needed modification to fit the original V0.1 frame. Included is the SuperSlicer config I used.
 
 ## Changes
 - Modified side clips to not interfere with idler mounts
