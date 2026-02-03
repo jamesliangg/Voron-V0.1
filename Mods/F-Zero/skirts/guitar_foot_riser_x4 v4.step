@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'guitar_foot_riser_x4 v2.step',
-/* time_stamp */ '2026-01-31T13:47:12-05:00',
+/* name */ 'guitar_foot_riser_x4 v4.step',
+/* time_stamp */ '2026-02-03T16:31:21-05:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -218,23 +218,23 @@ POSITIVE_RATIO_MEASURE(7850.),#128);
 #199=DIRECTION('center_axis',(1.22464679914735E-16,-1.,0.));
 #200=DIRECTION('ref_axis',(1.,1.22464679914735E-16,0.));
 #201=CARTESIAN_POINT('',(0.,0.,0.));
-#202=CARTESIAN_POINT('Origin',(0.,0.,39.8));
-#203=CARTESIAN_POINT('',(-18.6,2.27784304641408E-15,40.));
-#204=CARTESIAN_POINT('Origin',(0.,0.,40.));
-#205=CARTESIAN_POINT('',(-19.,-2.32682891837997E-15,39.6));
-#206=CARTESIAN_POINT('',(-18.8,-2.30233598239702E-15,39.8));
-#207=CARTESIAN_POINT('Origin',(0.,0.,39.6));
-#208=CARTESIAN_POINT('Origin',(0.,0.,40.));
-#209=CARTESIAN_POINT('',(-2.125,-2.60237444818813E-16,40.));
-#210=CARTESIAN_POINT('Origin',(0.,0.,40.));
+#202=CARTESIAN_POINT('Origin',(0.,0.,24.8));
+#203=CARTESIAN_POINT('',(-18.6,2.27784304641408E-15,25.));
+#204=CARTESIAN_POINT('Origin',(0.,0.,25.));
+#205=CARTESIAN_POINT('',(-19.,-2.32682891837997E-15,24.6));
+#206=CARTESIAN_POINT('',(-18.8,-2.30233598239702E-15,24.8));
+#207=CARTESIAN_POINT('Origin',(0.,0.,24.6));
+#208=CARTESIAN_POINT('Origin',(0.,0.,25.));
+#209=CARTESIAN_POINT('',(-2.125,-2.60237444818813E-16,25.));
+#210=CARTESIAN_POINT('Origin',(0.,0.,25.));
 #211=CARTESIAN_POINT('Origin',(0.,0.,0.));
 #212=CARTESIAN_POINT('',(-19.,2.32682891837997E-15,0.4));
 #213=CARTESIAN_POINT('',(-19.,-2.32682891837997E-15,0.));
 #214=CARTESIAN_POINT('Origin',(0.,0.,0.4));
-#215=CARTESIAN_POINT('Origin',(0.,0.,39.8));
-#216=CARTESIAN_POINT('',(-1.725,2.11251572852918E-16,39.6));
-#217=CARTESIAN_POINT('',(-1.925,-2.35744508835865E-16,39.8));
-#218=CARTESIAN_POINT('Origin',(0.,0.,39.6));
+#215=CARTESIAN_POINT('Origin',(0.,0.,24.8));
+#216=CARTESIAN_POINT('',(-1.725,2.11251572852918E-16,24.6));
+#217=CARTESIAN_POINT('',(-1.925,-2.35744508835865E-16,24.8));
+#218=CARTESIAN_POINT('Origin',(0.,0.,24.6));
 #219=CARTESIAN_POINT('Origin',(0.,0.,0.));
 #220=CARTESIAN_POINT('',(-1.725,-2.11251572852918E-16,0.14790199457749));
 #221=CARTESIAN_POINT('',(-1.725,-2.11251572852918E-16,0.));
@@ -295,16 +295,16 @@ SOLID_ANGLE_UNIT()
 #244=SHAPE_REPRESENTATION('',(#137),#236);
 #245=PRODUCT_DEFINITION_CONTEXT('part definition',#250,'design');
 #246=PRODUCT_DEFINITION('guitar_foot_riser_x4',
-'guitar_foot_riser_x4 v2',#247,#245);
+'guitar_foot_riser_x4 v4',#247,#245);
 #247=PRODUCT_DEFINITION_FORMATION('',$,#252);
-#248=PRODUCT_RELATED_PRODUCT_CATEGORY('guitar_foot_riser_x4 v2',
-'guitar_foot_riser_x4 v2',(#252));
+#248=PRODUCT_RELATED_PRODUCT_CATEGORY('guitar_foot_riser_x4 v4',
+'guitar_foot_riser_x4 v4',(#252));
 #249=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#250);
 #250=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #251=PRODUCT_CONTEXT('part definition',#250,'mechanical');
-#252=PRODUCT('guitar_foot_riser_x4','guitar_foot_riser_x4 v2',$,(#251));
+#252=PRODUCT('guitar_foot_riser_x4','guitar_foot_riser_x4 v4',$,(#251));
 #253=PRESENTATION_STYLE_ASSIGNMENT((#254));
 #254=SURFACE_STYLE_USAGE(.BOTH.,#255);
 #255=SURFACE_SIDE_STYLE('',(#256));
